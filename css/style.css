@@ -31,3 +31,7 @@
   list-style-type: none;
   text-align: center;
 }
+
+#sidebar ul li a:hover {
+  background-color: #000;
+}
