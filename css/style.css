@@ -19,11 +19,15 @@
 }
 
 #main-navbar ul li {
+}
 #main-navbar ul li a {
   display: block;
   text-decoration: none;
 }
 
+#main-navbar ul li a:hover {
+}
+#onpage {
 }
 #sidebar {
   height: 100%;
@@ -33,6 +37,8 @@
 #sidebar ul {
   list-style-type: none;
   text-align: center;
+}
+#sidebar ul li a {
 }
 
 #sidebar ul li a:hover {
