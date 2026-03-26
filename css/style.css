@@ -19,9 +19,14 @@
 }
 
 #main-navbar ul li {
+  float: left;
+  position: relative;
+  display: block;
 }
+
 #main-navbar ul li a {
   display: block;
+  padding: 10px 20px;
   color: #fff;
   text-decoration: none;
 }
@@ -29,6 +34,7 @@
 #main-navbar ul li a:hover {
   background-color: #000;
 }
+
 #onpage {
 }
 #sidebar {
