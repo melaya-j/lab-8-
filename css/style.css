@@ -21,6 +21,7 @@
 #main-navbar ul li {
   float: left;
   position: relative;
+  right: 50%;
   display: block;
 }
 
@@ -36,7 +37,9 @@
 }
 
 #onpage {
+  text-decoration: underline overline;
 }
+
 #sidebar {
   height: 100%;
   width: 20%;
