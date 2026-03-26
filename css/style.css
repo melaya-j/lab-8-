@@ -15,3 +15,8 @@
 }
 #main-navbar ul li {
 }
+#sidebar {
+  height: 100%;
+  width: 20%;
+}
+
